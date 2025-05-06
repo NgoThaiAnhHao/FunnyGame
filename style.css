@@ -219,13 +219,14 @@ main {
 
 @media (max-width: 450px) {
   html {
-    font-size: 8px;
-  }
+    font-size: 7px;
+    
+  } 
 }
 
 @media (max-width: 425px) {
   html {
-    font-size: 7px;
+    font-size: 6px;
   }
 }
 
