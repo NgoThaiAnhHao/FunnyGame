@@ -217,6 +217,12 @@ main {
   background-color: #c7365f;
 }
 
+@media (max-width: 450px) {
+  html {
+    font-size: 8px;
+  }
+}
+
 @media (max-width: 425px) {
   html {
     font-size: 7px;
